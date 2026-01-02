@@ -1,0 +1,8 @@
+[build]
+  command = "npm run generate"
+  publish = ".output/public"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # Set to "true" to enable prototype pages on the deployed site
+  ENABLE_PROTOTYPES = "true"
