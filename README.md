@@ -2,6 +2,8 @@
 
 A complete implementation of a GenAI-powered rapid prototyping system for Nuxt.js applications, demonstrating the concepts from the blog post ["Building a GenAI-Powered Rapid Prototyping System for Modern Web Applications"](https://www.nathanfox.net/p/building-a-genai-powered-rapid-prototyping).
 
+**Live Demo:** [https://ui-prototype-example.netlify.app/](https://ui-prototype-example.netlify.app/)
+
 ## Overview
 
 This repository showcases a **side-by-side architecture** where prototype and production components coexist in the same codebase. It enables teams to:
